@@ -146,6 +146,15 @@ body {
 .btn.primary { background: var(--navy); color: white;}
 .btn.secondary { background: rgb(192, 56, 56); color: white; }
 .btn.red { background: var(--red); color: #fff; }
+.review_p {
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.reviews {
+    background: whitesmoke;
+    color: var(--navy);
+}
 
 .intro {
     padding: 70px 0 52px;
